@@ -1,7 +1,7 @@
 {Unidad con rutinas para el manejo de archivos DXF.
  También se incluyen los contenedores destinados a almacenar los diversos
  bloques usados.}
-unit DipDXF; {$mode objfpc}{$H+}
+unit MiDXF; {$mode objfpc}{$H+}
 interface
 uses
   Classes, SysUtils, LCLProc, fgl, MisUtils;
