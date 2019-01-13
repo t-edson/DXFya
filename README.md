@@ -1,4 +1,4 @@
-# MiDXF
+# DXFya
 Librería en Object Pascal para el manejo de archivos en formato DXF
 
 Unidad con rutinas para el manejo de archivos DXF.
