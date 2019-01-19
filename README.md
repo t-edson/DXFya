@@ -14,5 +14,5 @@ Para cargar archivos DXF hay que crear una instancia de TDXFfile:
   end;
 ```
 
-Las entidades leídas se alamacenan en la lista "dxfFile.entities":
+Las entidades leídas se almacenan en la lista "dxfFile.entities":
 
