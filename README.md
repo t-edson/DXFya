@@ -6,13 +6,13 @@ También se incluyen los contenedores destinados a almacenar los diversos bloque
 
 Para cargar archivos DXF hay que crear una instancia de TDXFfile:
 
-´´´
+```
   dxfFile := TDXFfile.Create;
   dxfFile.ReadFromFile('prueba.dxf');
   if dxfFile.Er<>'' then begin
     //Some error
   end;
-´´´
+```
 
 Las entidades leídas se alamacenan en la lista "dxfFile.entities":
 
